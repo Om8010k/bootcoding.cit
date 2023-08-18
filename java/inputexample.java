@@ -17,7 +17,7 @@ public class inputexample {
         int mul =n*m;
         System.out.println("multiplicstion=" +mul);
         int mod =n%m;
-        System.out.println("modules=" +mod);
+        System.out.println("modules=" +mod + ".");
 
 
     }
