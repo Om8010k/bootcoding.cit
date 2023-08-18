@@ -6,6 +6,6 @@ public class hourstominute {
         int secmin= min+60;
         System.out.println("4hours in sec is " + sec);
 
-        System.out.println("secmin in seconds");
+        System.out.println("secmin in seconds" secmin);
     }
 }
