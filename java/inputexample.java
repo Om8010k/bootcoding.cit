@@ -5,7 +5,7 @@ public class inputexample {
         System.out.println("enter first number");
         int n = sc.nextInt();
         System.out.println("enter second number");
-         int m = sc.nextInt();
+        int m = sc.nextInt();
 
 
         int add= n+m;
@@ -17,7 +17,7 @@ public class inputexample {
         int mul =n*m;
         System.out.println("multiplicstion=" +mul);
         int mod =n%m;
-        System.out.println("modules=" +mod  );
+        System.out.println("modules=" +mod +"."  );
 
 
     }
