@@ -6,6 +6,8 @@ public class inputexample {
         int n = sc.nextInt();
         System.out.println("enter second number");
          int m = sc.nextInt();
+
+
         int add= n+m;
         System.out.println("addition=" + add);
         int sub = n-m;
